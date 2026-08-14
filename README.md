@@ -3,6 +3,8 @@
 提供可视化界面，提供分辨率 / 编码 / 封装格式选择、封面另存、等常用功能。
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://img.shields.io/badge/version-1.0-blue.svg)
+
 
 > **重要说明**：此工具只是对 gamdl 的 GUI 封装，不包含绕过授权或规避付费保护的功能。下载 Apple Music 内容请遵守当地法律与 Apple 服务条款，且须使用已登录并有有效 Apple Music 订阅的账户（通过 Cookies 登录）。
 ## 目录
