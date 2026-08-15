@@ -4,7 +4,7 @@ A graphical Apple Music music video downloader, developed based on [gamdl](https
 It provides a visual interface and common features such as resolution / codec / container format selection, cover saving, and more.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)  
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1-blue.svg)
 
 **Important note:** This tool is only a GUI wrapper for gamdl and does not include any functionality for bypassing authorization or circumventing paid protection. When downloading Apple Music content, please comply with local laws and Apple’s Terms of Service, and use an account that is logged in and has an active Apple Music subscription via Cookies.
 
